@@ -18,5 +18,5 @@ Will be announced shortly
 Will be announced shortly
 
 ## Hack ideas
-We are looking forward to your hack topics. Please use [this form](https://github.com/andrawaag/Biohackathon-SWAT4HCLS-2023/issues/new?assignees=andrawaag&labels=2023%2Cpitch&template=pitch_2023.yml&title=%5BPitch%5D%3A+) 
+We are looking forward to your hack topics. Please use [this form](https://github.com/SWAT4HCLS/Biohackathon-SWAT4HCLS-2023/issues/new?assignees=andrawaag&labels=2023%2Cpitch&template=pitch_2023.yml&title=%5BPitch%5D%3A+) 
 to pitch any idea. 
