@@ -26,5 +26,5 @@ body:
   - type: textarea
     id: needs
     attributes:
-      label: Expertice needed
+      label: Expertise needed
       description: What help can you use? What expertise are you looking for?
