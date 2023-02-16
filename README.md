@@ -16,11 +16,11 @@ Will be announced shortly
 
 ## Schedule
 09:00 Welcome and Pitches
-  |   Hack
-  |.  Hack
+  *   Hack
+  *  Hack
 12:00 Pitches
-  |.  Hack
-  |   Hack
+  *  Hack
+  *   Hack
 17:00 Conclusions
   
 
