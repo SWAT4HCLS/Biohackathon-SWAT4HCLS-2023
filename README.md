@@ -9,13 +9,20 @@ There has always been an overlap in the audience with the other two BioHackathon
 * [BioHackathon Europe](https://biohackathon-europe.org/)
 
 ## Date
-The BioHackathon SWAT$HCLS 2023 will take place on the 4th day of the event and will be organised as an [unconference](https://en.wikipedia.org/wiki/Unconference)
+The BioHackathon SWAT$HCLS 2023 will take place on thursday February 16th 2023 and will be organised as an [unconference](https://en.wikipedia.org/wiki/Unconference)
 
 ## Venue
 Will be announced shortly
 
 ## Schedule
-Will be announced shortly
+09:00 Welcome and Pitches
+  |   Hack
+  |.  Hack
+12:00 Pitches
+  |.  Hack
+  |   Hack
+17:00 Conclusions
+  
 
 ## Hack ideas
 We are looking forward to your hack topics. Please use [this form](https://github.com/SWAT4HCLS/Biohackathon-SWAT4HCLS-2023/issues/new?assignees=andrawaag&labels=2023%2Cpitch&template=pitch_2023.yml&title=%5BPitch%5D%3A+) 
