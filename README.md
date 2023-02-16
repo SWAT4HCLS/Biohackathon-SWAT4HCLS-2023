@@ -15,13 +15,13 @@ The BioHackathon SWAT$HCLS 2023 will take place on thursday February 16th 2023 a
 Will be announced shortly
 
 ## Schedule
-09:00 Welcome and Pitches
+* 09:00 Welcome and Pitches
   *   Hack
   *  Hack
-12:00 Pitches
+* 12:00 Pitches
   *  Hack
   *   Hack
-17:00 Conclusions
+* 17:00 Conclusions
   
 
 ## Hack ideas
